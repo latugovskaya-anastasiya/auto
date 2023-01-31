@@ -1,4 +1,4 @@
-# new_project
+# my_project
 
 ## Project setup
 ```
